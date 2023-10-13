@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Cesar David 👨🏻‍💻</h1>
+<h1 align="center">Hey there 👋 I'm David Padilla 👨🏻‍💻</h1>
 
 <p align="center">
 A Fullstack Software Developer based in Quito-Ecuador 🇪🇨
@@ -24,7 +24,7 @@ A Fullstack Software Developer based in Quito-Ecuador 🇪🇨
 </h4>
 
 <p align="center">
-☕ Open Source | 💡 Web Development | 🥇 Best Practices | 🎨 Graphic Design | 🎹 Music | ♿️ A11y | 🎮 Game Development | 👨‍🏫 Career & Mentorship |  
+☕ Open Source | 💡 Web Development | 🥇 Best Practices | 🎨 Graphic Design | 🎹 Music | ♿️ a11y | 🎮 Game Development | 👨‍🏫 Career & Mentorship |  
 </p>
 
 <!-- Technologies -->
@@ -53,3 +53,12 @@ A Fullstack Software Developer based in Quito-Ecuador 🇪🇨
     📫 How to reach me: 
     <a href="mailto:davidpadillaf22@gmail.com">davidpadillaf22@gmail.com</a>
 </p>
+
+<!-- Technologies -->
+<h4 align="center">
+🏅 Badges
+</h4>
+
+[![An image of @cesardlinx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cesardlinx)](https://holopin.io/@cesardlinx)
+
+
