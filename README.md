@@ -51,7 +51,7 @@ A Fullstack Software Developer based in Quito-Ecuador 🇪🇨
 
 <p align="center">
     📫 How to reach me: 
-    <a href="mailto:davidpadillaf22@gmail.com">davidpadillaf22@gmail.com</a>
+    <a href="mailto:davidpadilla.f22@gmail.com">davidpadilla.f22@gmail.com</a>
 </p>
 
 <!-- Technologies -->
